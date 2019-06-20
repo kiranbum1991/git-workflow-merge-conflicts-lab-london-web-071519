@@ -7,7 +7,7 @@
 
 ## Introduction
 
-We've discussed how merge conflicts happen and how we can solve them. Let's work through a scenario using characters from [Back to the Future](https://www.imdb.com/title/tt0088763/) to resolve some issues with conflicting Git histories! 
+We've discussed how merge conflicts happen and how we can solve them. Let's work through a scenario using characters from [Back to the Future](https://www.imdb.com/title/tt0088763/) to resolve some issues with conflicting Git histories!
 
 Marty McFly and Doc Brown just finished their student profiles for Flatiron School. Now they need to merge their profiles into the `master` branch, so that they'll have a completed profile page.
 
@@ -44,7 +44,6 @@ To accomplish this, you're going to be following six steps, listed below:
 
 Remember to fork then clone down this repo. Then change directories into it using:
 
-* `cd git-merge-conflicts-< your semester name >`
 
 The first step is to see how many branches you have locally. Run `git branch` from your terminal to see all of the branches. The output should look like this:
 
